@@ -1,4 +1,4 @@
-Date,In-game Date,Season,Weather,Luck,Time Spent,Gold on Hand,Primary Activity Gold,Non-Activity Gold,Expenses,Net Activity Income,Pickaxe,Axe,Sword,Hoe,Scythe,Pan,Rod,Tackle,Farming,Fishing,Mining,Foraging,Fighting
+Date,In-game Date,Season,Weather,Luck,Time Spent (in minutes),Gold on Hand,Primary Activity Gold,Non-Activity Gold,Expenses,Net Activity Income,Pickaxe Lvl.,Axe Lvl.,Sword Lvl.,Hoe Lvl.,Scythe Lvl.,Pan Lvl.,Rod Lvl.,Tackle Lvl.,Farming Lvl.,Fishing Lvl.,Mining Lvl.,Foraging Lvl.,Fighting Lvl.
 12/7/2025,"Day 1, Year 1",Spring,Sunny,Very Happy,0:40:00,500,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0
 12/7/2025,"Day 2, Year 1",Spring,Sunny,Neutral,1:10:00,500,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0
 12/7/2025,"Day 3, Year 1",Spring,Rainy,Good Humor,0:00:00,500,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0
